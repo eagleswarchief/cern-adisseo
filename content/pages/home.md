@@ -2,7 +2,6 @@
 template: HomePage
 slug: ''
 title: Center of Excellence and Research in Nutrition
-featuredImage: splendid-rabbit.jpg
 subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
 meta:
   description: This is a meta description.
