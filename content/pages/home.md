@@ -7,7 +7,7 @@ subtitle: |
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
-featuredImage: important-sparrow.jpg
+featuredImage: young.jpg
 ---
 
 Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
