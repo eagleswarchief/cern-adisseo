@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ''
-title: Center of E
+title: Center of Excellence and Research in Nutrition
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
 subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
 meta:
